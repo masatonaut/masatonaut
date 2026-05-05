@@ -21,12 +21,12 @@ Next.js · React · TypeScript · Supabase · PostgreSQL · Stripe · Claude API
 - 🇯🇵 → 🇺🇸 Tokyo → Los Angeles for **USC MSc Computer Science** (Fall 2026).
 - 📄 Co-authored at **ACL 2025** ([Enhancing AMR Parsing with GRPO](https://aclanthology.org/2025.xllm-1.11/)).
 - 🛠️ Shipping indie products as Kyren — 4 products, 3 live.
-- 🤿 PADI Master Scuba Diver · 56 logged dives.
+- 🤿 PADI Master Scuba Diver & Rescue Diver · 60 logged dives.
 
 ## Links
 
-[kyren.app](https://kyren.app) · [masatonaut.dev](https://masatonaut.dev) · [X](https://x.com/masatobuilds) · [LinkedIn](https://www.linkedin.com/in/masatobuilds)
+[kyren.app](https://kyren.app) · [masatonaut.dev](https://masatonaut.dev) · [LinkedIn](https://www.linkedin.com/in/masatobuilds)
 
 ---
 
-<sub>Quiet Ambition. Strip away the unnecessary. Ship what matters. 簡素 (Kanso).</sub>
+<sub>Strip away the unnecessary. Ship what matters. 簡素 (Kanso).</sub>
