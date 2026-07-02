@@ -15,7 +15,6 @@ Making "good LLM output" measurable — eval harnesses, production RAG that surv
 | 🤝 | [KASHITE](https://kashite.kyren.app) | Track who borrowed what. | Live |
 | 📖 | [YOMU](https://yomu.kyren.app) | AI document Q&A with citations. | Live |
 | ✍️ | [Phrasely](https://phrasely.kyren.app) | Write better English, learn why. | Live |
-| 🗼 | SABAKU | ATC-inspired task management. | Building |
 
 ## Stack
 
